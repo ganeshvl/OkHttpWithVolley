@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenDaoGenerator/GreenDaoGenerator.iml" filepath="$PROJECT_DIR$/GreenDaoGenerator/GreenDaoGenerator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JianDan_OkHttpWithVolley.iml" filepath="$PROJECT_DIR$/JianDan_OkHttpWithVolley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpWithVolley.iml" filepath="$PROJECT_DIR$/OkHttpWithVolley.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
